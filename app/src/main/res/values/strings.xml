@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Preference HashMap</string>
+    <string name="name_et">put name</string>
+    <string name="password_et">put pasword</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_retrive">Show</string>
+</resources>
